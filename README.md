@@ -1,4 +1,4 @@
-FIP200 recruits ATG16L1 to the autophagosome via its CLAW domain
+#  FIP200 recruits ATG16L1 to the autophagosome via its CLAW domain
 
 ## Project Description
 
