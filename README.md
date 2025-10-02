@@ -18,5 +18,5 @@ ETH Zurich, 2024
 
 ### Poster Presentation
 *Recruitment mechanisms of ATG16L1 via FIP200 CLAW domain*  
-Presented at the Biophysical Society Annual Meeting, 2024  
+PSB2025 
 🔗 [Abstract in *Biophysical Journal*](https://www.cell.com/biophysj/abstract/S0006-3495(24)03768-8#)
